@@ -1,0 +1,5 @@
+snapshot/project.md
+session/corrections.md
+__pycache__/
+*.pyc
+.DS_Store
