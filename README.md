@@ -30,7 +30,7 @@ On a typical debugging session, 60–80% of the tokens consumed contribute nothi
 ## Quick start
 
 ```bash
-git clone https://github.com/subhamlistingsmanager/dont-burn.token
+git clone https://github.com/ca-who-codes/dont-burn.token
 cd dont-burn.token
 
 # Generate a snapshot of your project

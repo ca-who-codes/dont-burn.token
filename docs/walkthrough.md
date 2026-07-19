@@ -9,7 +9,7 @@ A complete guide to setting up and using dont-burn.token across different workfl
 ### Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/subhamlistingsmanager/dont-burn.token
+git clone https://github.com/ca-who-codes/dont-burn.token
 ```
 
 You'll reference this repo from any project, so place it somewhere permanent:
@@ -310,7 +310,7 @@ The beginning of CLAUDE.md must stay identical between sessions for cache alignm
 
 ```bash
 # First time setup
-git clone https://github.com/subhamlistingsmanager/dont-burn.token ~/dontburn
+git clone https://github.com/ca-who-codes/dont-burn.token ~/dontburn
 
 # Every new project
 python3 ~/dontburn/snapshot/generate.py /my/project
