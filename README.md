@@ -1,3 +1,5 @@
+![dont-burn.token — cut AI coding token spend 40–90% · CA who codes](.github/banner.png)
+
 # dont-burn.token
 
 > Stop wasting money on tokens your AI never needed to read.
